@@ -1,6 +1,6 @@
 {
   "personas": [
-    { "id": 1, 
+    { "idPersona": 1, 
       "nombres": "Elian",
       "apellido1": "Aparicio",
       "apellido2": "Estrada",
@@ -11,7 +11,7 @@
       "profesion": "Estudiante",
       "idrol": 3,
       "estado": 1 },
-    { "id": 2, 
+    { "idPersona": 2, 
       "nombres": "Jesus",
       "apellido1": "Rios",
       "apellido2": "Estrada",
