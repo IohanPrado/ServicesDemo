@@ -1,0 +1,34 @@
+{
+  "personas": [
+    { "id": 1, 
+      "nombres": "Elian",
+      "apellido1": "Aparicio",
+      "apellido2": "Estrada",
+      "ci": "3223232",
+      "telefono": 61262781,
+      "email": "elian69@gmail.com",
+      "password": "123",
+      "profesion": "Estudiante",
+      "idrol": 3,
+      "estado": 1 },
+    { "id": 2, 
+      "nombres": "Jesus",
+      "apellido1": "Rios",
+      "apellido2": "Estrada",
+      "ci": "3223232",
+      "telefono": 61262781,
+      "email": "elian69@gmail.com",
+      "password": "123",
+      "profesion": "Estudiante",
+      "idrol": 3,
+      "estado": 1 }
+      
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
